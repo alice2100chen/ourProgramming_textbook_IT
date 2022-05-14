@@ -6,7 +6,7 @@ int main(){
     int i, max, min;
     max = s[0];
     min = s[0];
-    for(i=1; i<4; i++){
+    for(i=1; i<5; i++){
         if (max < s[i])
             max = s[i];
         if (min > s[i])
