@@ -14,7 +14,7 @@ int main() {
 
     cout << superstarName << endl;
     cout << message << endl;
-    cout << "最愛你的粉絲 " << yourName << endl; 
+    cout << "最愛你的粉絲" << yourName << endl; 
 
     return 0;
 }
