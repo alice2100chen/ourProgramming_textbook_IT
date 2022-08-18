@@ -12,7 +12,7 @@ int main(){
                 a[j+1] = tmp;
             }
         }
-        printf("第%d回合結果", i);
+        printf("第%d回合結果:", i);
         for (k=0;k<5;k++)
             printf("%d ", a[k]);
         printf("\n");
